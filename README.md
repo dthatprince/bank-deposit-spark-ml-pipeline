@@ -2,7 +2,7 @@
 
 This repository contains a PySpark project implementing a machine learning pipeline for predicting term deposit subscriptions using the Bank Term Deposit Subscription Dataset.
 
-Dataset: https://www.kaggle.com/datasets/neerajkumarpaikra/bank-term-deposit-subscription-dataset
+Dataset: [bank-term-deposit-subscription-dataset](https://www.kaggle.com/datasets/neerajkumarpaikra/bank-term-deposit-subscription-dataset)
 
 ## Overview
 
